@@ -30,7 +30,7 @@ Also the desire address can be added in a few second using the iframe code which
 > 
 >  
 > 
-#= Features =
+# = Features =
     - Build a contact form
     - You can add unlimited number of contact form fields.
     - Use a visual contact form builder to create a contact form.
@@ -53,7 +53,7 @@ Also the desire address can be added in a few second using the iframe code which
  Contact Form Integrated With Google Maps is powered by formget.com.
 Click here to build [Advance Contact Form](http://formget.com).
 
-#== Installation ==
+# == Installation ==
 
 This section describes how to install the plugin and get it working.
 
@@ -65,12 +65,12 @@ This section describes how to install the plugin and get it working.
 6. Click on the embed button and copy the iframe code from "Embed Form On Your Website" tab.
 7. Paste it in the plugin section . 
 
-#== Screenshots ==
+# == Screenshots ==
 
 1. Screenshots
 
 
-#== Changelog ==
+# == Changelog ==
 = Version 2.7 =
 * ZeroClipboard js included for copy shortcode button in setting page.
 
@@ -154,6 +154,6 @@ This section describes how to install the plugin and get it working.
 = Version 1.0 =
 * Initial release
 
-#== Upgrade Notice ==
+# == Upgrade Notice ==
 = 1.0 =
 * Initial release
