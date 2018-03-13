@@ -30,7 +30,7 @@ Also the desire address can be added in a few second using the iframe code which
 > 
 >  
 > 
-# = Features =
+# == Features ==
     - Build a contact form
     - You can add unlimited number of contact form fields.
     - Use a visual contact form builder to create a contact form.
